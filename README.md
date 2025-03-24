@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Aroulis8
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Next.JS
+- 👀 I’m interested in C#
 <!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 Email: vissarionlamp@gmail.com
 - 😄 Pronouns: he
