@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Aroulis8
-- 👀 I’m interested in C#
+- 👀 I’m interested in C# and Go
 <!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 Email: vissarionlamp@gmail.com
-- 😄 Pronouns: he
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I am from Greece.
 
 <!---
