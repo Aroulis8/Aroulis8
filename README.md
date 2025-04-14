@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aroulis8
-- 👀 I’m interested in C# and Go
+- 👀 I’m interested in Web development
 <!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 Email: vissarionlamp@gmail.com
 - 😄 Pronouns: he/him
